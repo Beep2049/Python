@@ -3,7 +3,7 @@
 ---
 
 Projects to teach me python and its applicabiltiy in devloping different tools and apps.
-Assorted in random order.
+In random order.
 
 - [Calculator](https://github.com/Beep2049/Python/tree/main/Calculator)
 - [Learning How Machine Learning Works](https://github.com/Beep2049/Python/tree/main/Learning-How-ML's-Work-with-Python)
