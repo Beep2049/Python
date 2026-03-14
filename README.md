@@ -12,3 +12,4 @@ In random order.
 - [Password Generator](https://github.com/Beep2049/Python/tree/main/Password-Generator)
 - [QR Code Generator](https://github.com/Beep2049/Python/tree/main/QR-Code-Generator)
 - [Text Editors](https://github.com/Beep2049/Python/tree/main/Text-Editor)
+- [Mass Email Script](https://github.com/Beep2049/Python/blob/main/mass_email_final/mass_email_f.py)
