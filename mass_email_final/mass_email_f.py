@@ -80,16 +80,12 @@ def mass_email(recipients ,my_email, password, smtp_server="smtp.gmail.com", por
     
     return results
 
-#Password: 
-#gmail - tqhm fobp cjrh pqxs(no spaces)
-#zoho - 
-#other - 
 app_password = getpass.getpass("Enter Password: ")
 
 if __name__ == "__main__":
     mass_email(
         recipients=get_recipients(),
-        my_email="ericb725@gmail.com",
+        my_email="example@gmail.com,
         password=app_password
     )
 
